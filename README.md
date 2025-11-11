@@ -12,7 +12,7 @@ To use this repository:
 
 2. Clone it locally:
    ```bash
-   git clone https://github.com/AAU-ST3-KHF/cardiovascular_system_1.git
+   git clone https://github.com/AAU-ST3-KHF/cardiovascular_system_blod.git
    cd cardiovascular_system_1
    uv sync
 
