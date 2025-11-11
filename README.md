@@ -4,11 +4,17 @@
 ## ​ Usage
 
 To use this repository:
+1. Ensure you have uv installed, 
+  - IF NOT, you can install it as so from the terminal:
+  - Windows11: `choco install uv` or `winget install --id=astral-sh.uv  -e`
+  - MacOS: `brew install uv`
+
 
 2. Clone it locally:
    ```bash
    git clone https://github.com/AAU-ST3-KHF/cardiovascular_system_1.git
    cd cardiovascular_system_1
+   uv sync
 
 ## Forberedelse
 
