@@ -16,6 +16,8 @@ To use this repository:
    cd cardiovascular_system_1
    uv sync
 
+3. If changes occured, i.e. new version of python to your own: `uv sync
+    `
 ## Forberedelse
 
 Til hver lektion skal man forvente følgende:
