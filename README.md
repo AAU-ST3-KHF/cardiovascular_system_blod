@@ -8,7 +8,7 @@ To use this template:
 1. Click **Use this template** on GitHub to create a new repo.
 2. Clone it locally:
    ```bash
-   git clone https://github.com/AAU-ST3-KHF/cardiovascular_system_1/.git
+   git clone https://github.com/AAU-ST3-KHF/cardiovascular_system_1.git
    cd cardiovascular_system_1
 
 ## Forberedelse
