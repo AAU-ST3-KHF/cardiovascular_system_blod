@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+
+
+*ecg
+*.dat
+files/physionet.org/*
