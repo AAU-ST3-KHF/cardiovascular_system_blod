@@ -8,15 +8,14 @@ To use this repository:
   - IF NOT, you can install it as so from the terminal:
   - Windows11: `choco install uv` or `winget install --id=astral-sh.uv  -e`
   - MacOS: `brew install uv`
-
-
 2. Clone it locally:
    ```bash
    git clone https://github.com/AAU-ST3-KHF/cardiovascular_system_blod.git
    cd cardiovascular_system_blod
    uv sync
-
-3. If changes occured, i.e. new version of python to your own: `uv sync
+   ```
+3. If changes occured, i.e. new version of python to your own: `uv sync`
+4. Install the following extensions for vs code: `python`, `jupyter`, (see recommendations)
 
 ## Læsevejledning:
 
