@@ -12,12 +12,16 @@ To use this repository:
 
 2. Clone it locally:
    ```bash
-   git clone https://github.com/AAU-ST3-KHF/cardiovascular_system_1.git
+   git clone https://github.com/AAU-ST3-KHF/cardiovascular_system_blod.git
    cd cardiovascular_system_1
    uv sync
 
 3. If changes occured, i.e. new version of python to your own: `uv sync
-    `
+
+## Læsevejledning:
+
+QHP 2nd Edition: Sec 5.1, 5.2, 5.9
+   `
 ## Forberedelse
 
 Til hver lektion skal man forvente følgende:
